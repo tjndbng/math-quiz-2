@@ -1,0 +1,79 @@
+body
+{
+	background-image: url("https://data.whicdn.com/images/358786624/original.gif");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: rgb(108, 84, 247);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(233, 130, 236);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: rgb(240, 170, 216);
+	
+}
+h3{
+	
+	color: rgb(123, 224, 224);
+}
+#username{
+	
+	color: rgb(80, 64, 224);
+}
+
+input:hover{
+	background-color: rgb(199, 241, 193);
+}
+.login_div2:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+}
+#number_1,#number_2
+{
+	color: rgb(217, 180, 238);
+	font-weight: bold;
+}
+h4{
+	color: bisque;
+	
+	width: 100px;
+}
+h4:hover{
+	text-decoration: underline;
+}
+
